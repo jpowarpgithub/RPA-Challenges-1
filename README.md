@@ -19,3 +19,5 @@ Use full link -
 
 Time and Date website :- https://www.timeanddate.com/weather/
 
+I have prepared a beginner project and included all the necessary details to guide you through the process. Please find the attached excel sheet containing country data for your reference. Additionally, I have shared the code in a zip file. I would appreciate it if you could review it and provide suggestions on how we can enhance the UI-Path coding for a more effective outcome.
+
