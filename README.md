@@ -9,7 +9,6 @@ Hint :-
 - Get the capital of each country in each row using Google.
 - Get the weather in the capital of the country of each row using the Time and Date website.
 - Update the capital, weather, and status column of each row.
-- Share your screenshot or video of the bot developed on LinkedIn or Twitter with #RPAStarsChallenge and #Stardex.
 - Concepts you will learn:
 Excel Automation
 Web Automation
@@ -18,5 +17,5 @@ Datatable Operation
 Use full link - 
 
 
-https://www.timeanddate.com/weather/
+Time and Date website :- https://www.timeanddate.com/weather/
 
